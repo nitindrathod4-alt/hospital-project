@@ -1,8 +1,0 @@
-.terraform/
-*.tfstate
-*.tfstate.*
-.terraform.lock.hcl
-hospital-project/.terraform/
-hospital-project/.terraform.lock.hcl
-hospital-project/*.tfstate
-hospital-project/*.tfstate.*
